@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/authentification-provider/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/authentification-provider/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/encoding/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/encoding/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/greetings-plugin/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/greetings-plugin/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/terminal-authentification-program/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/terminal-authentification-program/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/typecount-maven-plugin/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/typecount-maven-plugin/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/user-info/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/user-info/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
